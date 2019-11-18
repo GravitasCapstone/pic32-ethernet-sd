@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/microchip/harmony/v2_06/framework/tcpip/http.h</file>
+            <file>file:/C:/microchip/harmony/v2_06/apps/tcpip/web_server_sdcard_fatfs/firmware/src/app.c</file>
+            <file>file:/C:/microchip/harmony/v2_06/framework/system/fs/sys_fs.h</file>
+            <file>file:/C:/microchip/harmony/v2_06/apps/tcpip/web_server_sdcard_fatfs/firmware/src/system_config/pic32mz_ef_sk_meb2/system_init.c</file>
+            <file>file:/C:/microchip/harmony/v2_06/apps/tcpip/web_server_sdcard_fatfs/firmware/src/custom_http_app.c</file>
+            <file>file:/C:/microchip/harmony/v2_06/framework/tcpip/src/tcp.c</file>
+            <file>file:/C:/microchip/harmony/v2_06/framework/system/fs/src/dynamic/sys_fs.c</file>
+            <file>file:/C:/microchip/harmony/v2_06/apps/tcpip/web_server_sdcard_fatfs/firmware/src/system_config/pic32mz_ef_sk_meb2/system_tasks.c</file>
+            <file>file:/C:/microchip/harmony/v2_06/framework/tcpip/src/http.c</file>
+            <file>file:/C:/microchip/harmony/v2_06/apps/tcpip/web_server_sdcard_fatfs/firmware/src/main.c</file>
+            <file>file:/C:/microchip/harmony/v2_06/apps/tcpip/web_server_sdcard_fatfs/firmware/src/system_config/pic32mz_ef_sk_meb2/system_config.h</file>
+        </group>
+    </open-files>
+</project-private>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/pic32mz_ef_sk_meb2/production/pic32_eth_web_server.X.production.elf">                 
+    <memory name="program">                 
+      <units>bytes</units>                 
+      <length>2098304</length>                 
+      <used>353956</used>                     
+      <free>1744348</free>                     
+    </memory>                              
+    <memory name="data">              
+      <units>bytes</units>                 
+      <length>524288</length>                 
+      <used>38788</used>                     
+      <free>485500</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 
