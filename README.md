@@ -13,17 +13,17 @@ Most of the code is the original code from the example file. The only real chang
 
 
 ### Options (Harmony)
-![SD Card Driver Options](./help/SD card options.jpg)
+![SD Card Driver Options](https://raw.githubusercontent.com/GravitasCapstone/pic32-ethernet-sd/master/help/SD%20card%20options.jpg)
 SD Card driver options
 
-![SPI Driver Options](./help/SPI Driver.jpg)
+![SPI Driver Options](https://raw.githubusercontent.com/GravitasCapstone/pic32-ethernet-sd/master/help/SPI%20Driver.jpg)
 SPI Driver Options
 
 ### Pin Settings (Harmony)
-![SCK6 Pin](help/SCK6 pin.jpg)
+![SCK6 Pin](https://raw.githubusercontent.com/GravitasCapstone/pic32-ethernet-sd/master/help/SCK6%20pin.jpg)
 SCK6 Pin
 
-![SDIO6 Pins](help/SDI6_SDO6 pin.jpg)
+![SDIO6 Pins](https://raw.githubusercontent.com/GravitasCapstone/pic32-ethernet-sd/master/help/SDI6_SDO6%20pin.jpg)
 SDIO6 Pin
 
 contact gravitascapstone@gmail.com or breteldorado@tamu.edu for any questions.
