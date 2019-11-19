@@ -13,10 +13,10 @@ Most of the code is the original code from the example file. The only real chang
 
 
 ### Options (Harmony)
-![SD Card Driver Options](help/SD card options.jpg)
+![SD Card Driver Options](./help/SD card options.jpg)
 SD Card driver options
 
-![SPI Driver Options](help/SPI Driver.jpg)
+![SPI Driver Options](./help/SPI Driver.jpg)
 SPI Driver Options
 
 ### Pin Settings (Harmony)
