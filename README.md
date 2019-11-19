@@ -13,17 +13,16 @@ Most of the code is the original code from the example file. The only real chang
 
 
 ### Options (Harmony)
-
-[[help/SD card options.jpg]]
+![SD Card Driver Options](help/SD card options.jpg)
 SD Card driver options
 
-[[help/SPI Driver .jpg]]
+![SPI Driver Options](help/SPI Driver .jpg)
 SPI Driver Options
-### Pin Settings (Harmony)
 
-[[help/SCK6 pin.jpg]]
+### Pin Settings (Harmony)
+![SCK6 Pin](help/SCK6 pin.jpg)
 SCK6 Pin
-[[help/SDI6_SDO6 pin.jpg]]
+![SDIO6 Pins](help/SDI6_SDO6 pin.jpg)
 SDIO6 Pin
 
 contact gravitascapstone@gmail.com or breteldorado@tamu.edu for any questions.
