@@ -11,4 +11,19 @@ From here, you should be able to ping the microchip board. I made other small ch
 
 Most of the code is the original code from the example file. The only real change I made is to custom_http_app.c file. I added a function that allows to save a .csv file when using the setup.html page of the GUI. I also tried adding in dynamic variables to the website, but I could not get them to work. I wonder if it's even possible to have dynamic variables work from the SD card. It definitely works when the gui is running from internal or external flash/EEPROM
 
+
+### Options (Harmony)
+
+[[help/SD card options.jpg]]
+SD Card driver options
+
+[[help/SPI Driver .jpg]]
+SPI Driver Options
+### Pin Settings (Harmony)
+
+[[help/SCK6 pin.jpg]]
+SCK6 Pin
+[[help/SDI6_SDO6 pin.jpg]]
+SDIO6 Pin
+
 contact gravitascapstone@gmail.com or breteldorado@tamu.edu for any questions.
